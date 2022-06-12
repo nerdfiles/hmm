@@ -1,0 +1,14 @@
+{
+  "name": "hmm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update": "pbpaste > index.md",
+    "build": "pandoc -H ./header.html --metadata title='hmm' index.md > index.html",
+    "publish":"surge . | sed -e 's/uneven-disease.surge.sh/https:\\/\\/uneven-disease.surge.sh/g' | urlview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL"
+}
