@@ -1,0 +1,35 @@
+{
+  "collection": [
+    {
+      "$id":"9537f32ec7599e1ae953af6c9f929fe747ff9dadf79a9beff1f304c550173011",
+      "links": [
+        {
+          "rel":"a15faf6f6c7e4c11d7956175f4a1c01edffff6e114684eee28c255a86a8888f8",
+          "href": "https://ex.app/a15faf6f6c7e4c11d7956175f4a1c01edffff6e114684eee28c255a86a8888f8"
+        }
+      ]
+    },
+    {
+      "$id":"a15faf6f6c7e4c11d7956175f4a1c01edffff6e114684eee28c255a86a8888f8",
+      "links": [
+        {
+          "rel":"d72a11d264e746464ed45f73e1ec058e33ad40270c79324be171932d834d11f3",
+          "href": "https://ex.app/d72a11d264e746464ed45f73e1ec058e33ad40270c79324be171932d834d11f3"
+        }
+      ]
+    },
+    {
+      "$id":"d72a11d264e746464ed45f73e1ec058e33ad40270c79324be171932d834d11f3",
+      "links": [
+        {
+          "rel":"ff2ccb6ba423d356bd549ed4bfb76e96976a0dcde05a09996a1cdb9f83422ec4",
+          "href": "https://ex.app/ff2ccb6ba423d356bd549ed4bfb76e96976a0dcde05a09996a1cdb9f83422ec4"
+        }
+      ]
+    },
+    {
+      "$id":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "links": []
+    }
+  ]
+}
